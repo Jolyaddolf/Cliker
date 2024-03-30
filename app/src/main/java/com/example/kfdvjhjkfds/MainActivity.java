@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             ImageView cat1 = findViewById(R.id.cat1);
             if (score == 10) {
                 cat1.setImageResource(R.drawable.images__1_);
-            } else if (score == 21) {
+            } else if (score == 20) {
                 cat1.setImageResource(R.drawable.catyeas);
 
             }
